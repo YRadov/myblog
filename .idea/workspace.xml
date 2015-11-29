@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996f6571-0133-429e-8cea-d409fbd9efe3" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\.env.example" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\_ide_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Console\Commands\Inspire.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Console\Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Events\Event.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Exceptions\Handler.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Controllers\Auth\AuthController.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Controllers\Auth\PasswordController.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Controllers\Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Middleware\Authenticate.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Middleware\EncryptCookies.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Middleware\RedirectIfAuthenticated.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Middleware\VerifyCsrfToken.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\Requests\Request.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Http\routes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Jobs\Job.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Listeners\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Policies\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Providers\AppServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Providers\AuthServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Providers\EventServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\Providers\RouteServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\app\User.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\artisan" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\bootstrap\app.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\bootstrap\autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\bootstrap\cache\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\app.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\auth.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\broadcasting.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\cache.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\compile.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\database.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\filesystems.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\mail.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\queue.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\services.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\session.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\config\view.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\factories\ModelFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\migrations\2014_10_12_000000_create_users_table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\migrations\2014_10_12_100000_create_password_resets_table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\seeds\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\seeds\DatabaseSeeder.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\phpspec.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\public\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\public\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\public\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\assets\sass\app.scss" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\lang\en\auth.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\lang\en\pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\lang\en\passwords.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\lang\en\validation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\views\errors\503.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\views\vendor\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\resources\views\welcome.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\server.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\app\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\framework\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\framework\cache\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\framework\sessions\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\framework\views\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\storage\logs\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\tests\ExampleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\!!!OpenServer\domains\MyBlog\tests\TestCase.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MyBlog.iml" afterPath="$PROJECT_DIR$/.idea/MyBlog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/debugbar.php" afterPath="$PROJECT_DIR$/config/debugbar.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\!!!OpenServer\domains\MyBlog\README.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MOVED" beforePath="D:\!!!OpenServer\domains\MyBlog\database\migrations\.gitkeep" afterPath="$PROJECT_DIR$/composer.json" />
     </list>
     <ignored path="MyBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,7 +58,7 @@
       <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19136961">
+            <state vertical-scroll-proportion="1.1460674">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
@@ -289,72 +210,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -418,14 +273,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7563884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -467,6 +322,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -510,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19136961">
+        <state vertical-scroll-proportion="1.1460674">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
