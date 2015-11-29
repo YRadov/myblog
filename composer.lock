@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "134cd9be7a1e2379494ec42935391a20",
-    "content-hash": "d109715ab07acf0da8d3bc4f5a5c27e6",
+    "hash": "c518fd21101471706d579b26ff8d1195",
+    "content-hash": "f411d5e488cee17baf11776ba2a3554d",
     "packages": [
         {
             "name": "barryvdh/laravel-debugbar",
@@ -123,6 +123,47 @@
                 "sublime"
             ],
             "time": "2015-06-25 08:58:59"
+        },
+        {
+            "name": "ckeditor/ckeditor",
+            "version": "4.5.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ckeditor/ckeditor-releases.git",
+                "reference": "4b0678ff6f9e643f8361727f3a1325e4928b3d51"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/4b0678ff6f9e643f8361727f3a1325e4928b3d51",
+                "reference": "4b0678ff6f9e643f8361727f3a1325e4928b3d51",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+",
+                "LGPL-2.1+",
+                "MPL-1.1+"
+            ],
+            "authors": [
+                {
+                    "name": "CKSource",
+                    "homepage": "http://cksource.com"
+                }
+            ],
+            "description": "JavaScript WYSIWYG web text editor.",
+            "homepage": "http://ckeditor.com",
+            "keywords": [
+                "CKEditor",
+                "editor",
+                "fckeditor",
+                "html",
+                "javascript",
+                "richtext",
+                "text",
+                "wysiwyg"
+            ],
+            "time": "2015-11-12 19:22:59"
         },
         {
             "name": "classpreloader/classpreloader",
@@ -339,6 +380,59 @@
                 "string"
             ],
             "time": "2015-11-06 14:35:42"
+        },
+        {
+            "name": "frozennode/administrator",
+            "version": "v5.0.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FrozenNode/Laravel-Administrator.git",
+                "reference": "1cf037f64bd3f5827414295627e1a717edff0cf9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FrozenNode/Laravel-Administrator/zipball/1cf037f64bd3f5827414295627e1a717edff0cf9",
+                "reference": "1cf037f64bd3f5827414295627e1a717edff0cf9",
+                "shasum": ""
+            },
+            "require": {
+                "ckeditor/ckeditor": "4.*",
+                "laravel/framework": "5.*",
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "mockery/mockery": "~0.9"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/controllers"
+                ],
+                "psr-0": {
+                    "Frozennode\\Administrator": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jan Hartigan",
+                    "email": "jan@frozennode.com"
+                }
+            ],
+            "description": "A database interface package for Laravel",
+            "homepage": "http://administrator.frozennode.com",
+            "keywords": [
+                "admin",
+                "administrator",
+                "cms",
+                "database",
+                "laravel",
+                "laravel-administrator"
+            ],
+            "time": "2015-11-16 13:15:58"
         },
         {
             "name": "ircmaxell/password-compat",
