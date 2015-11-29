@@ -63,17 +63,6 @@ return array(
 
     /*
      |--------------------------------------------------------------------------
-     | Clockwork integration
-     |--------------------------------------------------------------------------
-     |
-     | The Debugbar can emulate the Clockwork headers, so you can use the Chrome
-     | Extension, without the server-side code. It uses Debugbar collectors instead.
-     |
-     */
-    'clockwork' => false,
-
-    /*
-     |--------------------------------------------------------------------------
      | DataCollectors
      |--------------------------------------------------------------------------
      |
@@ -100,7 +89,7 @@ return array(
         'files'           => false, // Show the included files
         'config'          => false, // Display config settings
         'auth'            => false, // Display Laravel authentication status
-        'session'         => true,  // Display session data
+        'session'         => false, // Display session data in a separate tab
     ),
 
     /*
